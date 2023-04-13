@@ -81,7 +81,15 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 </div>
 <div align="center">
   
-<a href="mailto:renansoftwaredev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div>
+  <a href="mailto:renansoftwaredev@gmail.com" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://img.icons8.com/fluent/50/000000/gmail-new.png" alt="Gmail icon" width="30" height="30" style="margin-right: 10px;">
+   </div>
+    <a href="mailto:renansoftwaredev@gmail.com" style="display: flex; align-items: center; text-decoration: none;">
+    <span style="font-size: 16px; color: #333; font-family: Arial, sans-serif;">renansoftwaredev@gmail.com</span>
+  </a>
+</div>
  
   
 </div>
