@@ -94,8 +94,10 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
   
 </div>
 <div align="center">
+  
+  <br>
+  <a href="https://linkedin.com/in/RenanCardozo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 10px;"/></a>
 
-<a href="https://linkedin.com/in/RenanCardozo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
   
