@@ -81,12 +81,12 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 </div>
 <div align="center">
   
- Email: [renansoftwaredev@gmail.com](mailto:renansoftwaredev@gmail.com)
+<a href="mailto:renansoftwaredev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
 </div>
 <div align="center">
 
-LinkedIn: [linkedin.com/in/RenanCardozo](https://linkedin.com/in/RenanCardozo)
+<a href="https://linkedin.com/in/RenanCardozo"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
   
