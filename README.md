@@ -82,11 +82,14 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 <div align="center">
   
  Email: [renansoftwaredev@gmail.com](mailto:renansoftwaredev@gmail.com)
- LinkedIn: [linkedin.com/in/RenanCardozo](https://linkedin.com/in/RenanCardozo)
   
 </div>
+<div align="center">
 
+LinkedIn: [linkedin.com/in/RenanCardozo](https://linkedin.com/in/RenanCardozo)
 
+</div>
+  
 ---
 
 Feel free to check out my repositories and projects! If you'd like to collaborate or learn more about my work, don't hesitate to reach out. I'm always looking to do more and expand my horizons!
