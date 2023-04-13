@@ -45,7 +45,28 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 - Version Control Systems: Git, Github
 - Other: Bi-lingual (Portuguese, English)
 
+<div align="center">
 
+### 📈 My GitHub Stats:
+  
+</div>
+<div align="center">
+  
+![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanCardozo&show_icons=true&theme=radical)
+ 
+</div>
+
+
+<div align="center">
+  
+### 💻 Most Used Languages:
+  
+</div>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanCardozo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ### 📫 How to reach me:
 
