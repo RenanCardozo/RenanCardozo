@@ -74,11 +74,17 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 
 </div>
 
+<div align="center">
+  
 ### 📫 How to reach me:
-
+  
+</div>
+<div align="center">
+  
 - Email: [renansoftwaredev@gmail.com](mailto:renansoftwaredev@gmail.com)
 - LinkedIn: [linkedin.com/in/RenanCardozo](https://linkedin.com/in/RenanCardozo)
-
+  
+</div>
 
 
 ---
