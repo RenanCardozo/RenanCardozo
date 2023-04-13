@@ -16,7 +16,8 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 
 
 ### 🔭 Technologies & Tools I've Learned:
-
+<div align="center">
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -36,6 +37,8 @@ I'm an ambitious and dedicated individual who is excited to make an impact in th
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Plastic](https://img.shields.io/badge/-Plastic-ff69b4?style=flat-square&logo=plastic&logoColor=white)
 
+</div>
+  
 - Languages: Python, JavaScript, C#, HTML5, CSS, TypeScript
 - Frontend Development: React, Bootstrap, Semantic UI, jQuery, AJAX
 - Backend Development: Node.js, Express, ASP.NET Core, Flask, Entity Framework Core, MVC, Jinja2
