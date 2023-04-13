@@ -14,8 +14,11 @@
 
 I'm an ambitious and dedicated individual who is excited to make an impact in the tech industry. With a strong foundation in real estate, I bring adaptability, communication, and attention to detail to the world of software engineering. I'm always eager to learn new technologies, languages, and methodologies to create innovative solutions that make a positive difference in people's lives.
 
-
+<div align="center">
+  
 ### 🔭 Technologies & Tools I've Learned:
+ 
+</div>  
 <div align="center">
   
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
